@@ -1,0 +1,9 @@
+Indicador,Resultado
+Pedidos entregues analisados,"96,470"
+Taxa geral de atraso,8.11%
+Valor dos produtos,"R$ 13,220,248.93"
+Estado com maior taxa de atraso,AL (23.93%)
+Categoria com maior taxa de atraso,audio (12.93%)
+Melhor modelo,Regressão Logística
+PR-AUC no teste,0.104
+Recall no teste,0.955
